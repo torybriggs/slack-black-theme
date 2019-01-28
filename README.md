@@ -8,7 +8,7 @@ Find your Slack's application directory.
 - Mac: `/Applications/Slack.app/Contents/`
 - Linux: `/usr/lib/slack/` (Debian-based)
 
-Replace the ssb-interop.js located in the most recent app version folder with [ssb-interop.js](https://github.com/torybriggs/slack-black-theme/blob/master/ssb-interop.js).
+Replace the `ssb-interop.js` located in the most recent app version folder with [ssb-interop.js](https://github.com/torybriggs/slack-black-theme/blob/master/ssb-interop.js).
 
 Example location `/app-3.3.3/resources/app.asar.unpacked/src/static/ssb-interop.js`
 
