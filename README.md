@@ -1,4 +1,4 @@
-# Slack Black & B/R Dark Theme - Night Mood
+# B/R Slack Dark Theme
 
 ## Installation:
 
